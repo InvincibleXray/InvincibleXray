@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi 👋 I'm Invincible Xray
 
-<!--
-**InvincibleXray/InvincibleXray** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech ECE Student
 
-Here are some ideas to get you started:
+💻 Passionate Web Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Currently Building WEVOX
+
+🌱 Learning
+
+• JavaScript
+• Firebase
+• AI
+• Git
+• Python
+
+⚡ Fun fact:
+I enjoy building editorial websites and solving real-world problems.
